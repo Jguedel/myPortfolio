@@ -2,5 +2,25 @@
 
 .error404 {
     color: red;
-    font-size: 40px;
+    font-size: 100px;
+}
+.errorPage{
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    background-color: black;
+    display: flex;
+}
+
+.errorText{
+    margin: auto;
+    color: white;
+}
+.errorText h1{
+    font-size: 100px;
+}
+.errorText h4{
+    font-size: 50px;
 }
