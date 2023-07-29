@@ -11,9 +11,7 @@ const NavBar = () => {
       <Navbar expand="lg" bg="dark" data-bs-theme="dark">
         <Container>
           <LinkContainer to="/myPortfolio">
-            <Navbar.Brand href="/" className="">
-              Jacobs Porfolio
-            </Navbar.Brand>
+            <Navbar.Brand href="/">Jacobs Porfolio</Navbar.Brand>
           </LinkContainer>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
