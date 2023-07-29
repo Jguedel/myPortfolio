@@ -1,17 +1,18 @@
-.bold{
-    font-weight: bolder;
+.bold {
+  font-weight: bolder;
 }
-.NavBar a{
-    padding-left: 5px;
-    padding-right: 5px;
+.NavBar a {
+  padding-left: 5px;
+  padding-right: 5px;
 }
-.NavBar a:hover{
-    color:whitesmoke;
+.NavBar a:hover {
+  color: whitesmoke;
 }
 .active {
-    font-weight:700;
-  }
+  font-weight: 700;
+  text-decoration: underline;
+}
 
-.navbar-brand{
-    font-size: 30px;
+.navbar-brand {
+  font-size: 30px;
 }

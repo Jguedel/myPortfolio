@@ -8,10 +8,10 @@ import "./Style/NavBar.css";
 const NavBar = () => {
   return (
     <div className="sticky-top NavBar">
-      <Navbar expand="sm" bg="dark" data-bs-theme="dark">
+      <Navbar expand="lg" bg="dark" data-bs-theme="dark">
         <Container>
           <LinkContainer to="/myPortfolio">
-            <Navbar.Brand href="/" className="bold">
+            <Navbar.Brand href="/" className="">
               Jacobs Porfolio
             </Navbar.Brand>
           </LinkContainer>

@@ -3,9 +3,8 @@ const getProjs = () => {
     {
       img: "img",
       title: "title",
-      description:
-        "this is the decription. this is the decription. this is the decription. this is the decription. this is the decription. this is the decription. this is the decription. this is the decription. this is the decription. this is the decription. this is the decription. this is the decription. this is the decription. this is the decription. this is the decription. this is the decription. this is the decription. this is the decription. this is the decription.",
-      link: "link",
+      description: "this is testing taking you to crunchyroll",
+      link: "https://beta.crunchyroll.com/",
     },
     {
       img: "img",

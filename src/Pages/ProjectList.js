@@ -14,7 +14,7 @@ const ProjectList = () => {
       <NavBar />
       <Container fluid>
         <Row className="projectList">
-          <Col xs="auto">
+          <Col xs={8}>
             <span className="projects">
               {projArr.map(({ img, title, description, link }) => (
                 <SingleProjectCard

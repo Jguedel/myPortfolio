@@ -7,7 +7,7 @@ const SingleProjectCard = (props) => {
     // e.preventDefault();
   };
   return (
-    <Card style={{ width: "60%" }} className="singleProject">
+    <Card style={{ width: "100%" }} className="singleProject">
       <Card.Img variant="top" src={props.img} />
       <Card.Body>
         <Card.Title>{props.title}</Card.Title>
