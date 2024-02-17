@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/myPortfolio/static/css/main.755a6325.css",
-    "main.js": "/myPortfolio/static/js/main.2cce3465.js",
-    "static/js/787.1ed0c42c.chunk.js": "/myPortfolio/static/js/787.1ed0c42c.chunk.js",
+    "main.css": "/myPortfolio/static/css/main.4457eaa0.css",
+    "main.js": "/myPortfolio/static/js/main.fe0f5f89.js",
+    "static/js/453.1407b060.chunk.js": "/myPortfolio/static/js/453.1407b060.chunk.js",
+    "static/media/caNationalPark.png": "/myPortfolio/static/media/caNationalPark.6fc29edc263a3a6ecc22.png",
+    "static/media/spaceTravel.png": "/myPortfolio/static/media/spaceTravel.950fb228ed8036a8519c.png",
     "index.html": "/myPortfolio/index.html",
-    "main.755a6325.css.map": "/myPortfolio/static/css/main.755a6325.css.map",
-    "main.2cce3465.js.map": "/myPortfolio/static/js/main.2cce3465.js.map",
-    "787.1ed0c42c.chunk.js.map": "/myPortfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.4457eaa0.css.map": "/myPortfolio/static/css/main.4457eaa0.css.map",
+    "main.fe0f5f89.js.map": "/myPortfolio/static/js/main.fe0f5f89.js.map",
+    "453.1407b060.chunk.js.map": "/myPortfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.755a6325.css",
-    "static/js/main.2cce3465.js"
+    "static/css/main.4457eaa0.css",
+    "static/js/main.fe0f5f89.js"
   ]
 }
