@@ -1,0 +1,11 @@
+.aboutMeCard,
+.list-group-flush,
+.list-group-item {
+  background-color: lightslategray !important;
+}
+.aboutMeTitle {
+  text-decoration: underline;
+}
+.homePage {
+  height: 100vh;
+}

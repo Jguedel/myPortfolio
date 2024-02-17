@@ -1,0 +1,18 @@
+.formInput {
+  max-width: 35%;
+  margin: 0px auto;
+}
+.contactMePage {
+  height: 100vh;
+}
+.formValidationText {
+  max-width: 10vw;
+}
+#validationCommet,
+textarea {
+  min-height: 10vh;
+  overflow-wrap: break-word;
+}
+textarea {
+  width: 100%;
+}

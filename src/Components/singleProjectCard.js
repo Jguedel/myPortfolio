@@ -8,7 +8,7 @@ const SingleProjectCard = (props) => {
   };
   return (
     <Card style={{ width: "100%" }} className="singleProject">
-      <Card.Img variant="top" src={props.img} />
+      <Card.Img className="projectImg" variant="top" src={props.img} />
       <Card.Body>
         <Card.Title>{props.title}</Card.Title>
         <Card.Text>{props.description}</Card.Text>
@@ -17,8 +17,9 @@ const SingleProjectCard = (props) => {
           href={props.link}
           variant="primary"
           onClick={handleCLick}
+          className="projectBtn"
         >
-          Go to Example
+          Check out the site
         </Button>
       </Card.Body>
     </Card>

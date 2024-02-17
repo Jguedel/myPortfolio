@@ -1,4 +1,16 @@
-.projectList{
-    display: flex;
-    justify-content: center;
+.projectList {
+  display: flex;
+  justify-content: center;
+}
+.projectImg {
+  max-width: 70%;
+  margin: auto;
+}
+.singleProject {
+  padding-top: 20px;
+  background-color: lightslategray !important;
+}
+
+.projectBtn {
+  background-color: black !important;
 }

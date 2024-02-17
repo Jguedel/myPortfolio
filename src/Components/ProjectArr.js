@@ -1,22 +1,18 @@
+import CANationalParkIMG from "./Photos/caNationalPark.png";
+import spaceTravelImg from "./Photos/spaceTravel.png";
 const getProjs = () => {
   const arr = [
     {
-      img: "img",
-      title: "title",
-      description: "this is testing taking you to crunchyroll",
-      link: "https://beta.crunchyroll.com/",
+      img: spaceTravelImg,
+      title: "Space travel",
+      description: "description",
+      link: "https://jguedel.github.io/SpaceTravel/",
     },
     {
-      img: "img",
-      title: "title2",
+      img: CANationalParkIMG,
+      title: "CA National Parks",
       description: "description2",
-      link: "link",
-    },
-    {
-      img: "img",
-      title: "title3",
-      description: "description3",
-      link: "link",
+      link: "https://jguedel.github.io/CaNationalParks/",
     },
   ];
   return arr;

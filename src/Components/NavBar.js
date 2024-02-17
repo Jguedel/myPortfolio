@@ -19,11 +19,8 @@ const NavBar = () => {
               <LinkContainer to="/Projects">
                 <Nav.Link>Projects</Nav.Link>
               </LinkContainer>
-              <LinkContainer to="/test1">
-                <Nav.Link href="./features">Contact Me</Nav.Link>
-              </LinkContainer>
-              <LinkContainer to="/test2">
-                <Nav.Link href="pricing">test2</Nav.Link>
+              <LinkContainer to="/ContactMe">
+                <Nav.Link>Contact Me</Nav.Link>
               </LinkContainer>
             </Nav>
           </Navbar.Collapse>
