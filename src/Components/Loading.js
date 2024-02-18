@@ -2,7 +2,6 @@ import NavBar from "./NavBar";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSpinner } from "@fortawesome/free-solid-svg-icons";
-import "./Style/Loading.css";
 const LoadingPage = (props) => {
   return (
     <div className="loadingPage">
