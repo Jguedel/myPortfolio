@@ -1,0 +1,957 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home Page Page Renders 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="App"
+      >
+        <div>
+          <div
+            class="sticky-top NavBar"
+          >
+            <nav
+              class="navbar navbar-expand-lg navbar-light bg-dark"
+              data-bs-theme="dark"
+            >
+              <div
+                class="container"
+              >
+                <a
+                  class="navbar-brand"
+                  href="/myPortfolio"
+                >
+                  Jacobs Porfolio
+                </a>
+                <button
+                  aria-controls="basic-navbar-nav"
+                  aria-label="Toggle navigation"
+                  class="navbar-toggler collapsed"
+                  type="button"
+                >
+                  <span
+                    class="navbar-toggler-icon"
+                  />
+                </button>
+                <div
+                  class="navbar-collapse collapse"
+                  id="basic-navbar-nav"
+                >
+                  <div
+                    class="me-auto navbar-nav"
+                  >
+                    <a
+                      class="nav-link"
+                      data-rr-ui-event-key="/Projects"
+                      href="/Projects"
+                    >
+                      Projects
+                    </a>
+                    <a
+                      class="nav-link"
+                      data-rr-ui-event-key="/ContactMe"
+                      href="/ContactMe"
+                    >
+                      Contact Me
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </nav>
+          </div>
+          <div
+            class="errorPage"
+          >
+            <div
+              class="errorText"
+            >
+              <h1>
+                <i
+                  class="error404 fa-solid fa-triangle-exclamation"
+                />
+                 404 Error 
+                <i
+                  class="error404 fa-solid fa-triangle-exclamation"
+                />
+              </h1>
+              <h4>
+                This page does not exist
+              </h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div
+        class="App"
+      >
+        <div>
+          <div
+            class="sticky-top NavBar"
+          >
+            <nav
+              class="navbar navbar-expand-lg navbar-light bg-dark"
+              data-bs-theme="dark"
+            >
+              <div
+                class="container"
+              >
+                <a
+                  class="navbar-brand"
+                  href="/myPortfolio"
+                >
+                  Jacobs Porfolio
+                </a>
+                <button
+                  aria-controls="basic-navbar-nav"
+                  aria-label="Toggle navigation"
+                  class="navbar-toggler collapsed"
+                  type="button"
+                >
+                  <span
+                    class="navbar-toggler-icon"
+                  />
+                </button>
+                <div
+                  class="navbar-collapse collapse"
+                  id="basic-navbar-nav"
+                >
+                  <div
+                    class="me-auto navbar-nav"
+                  >
+                    <a
+                      class="nav-link"
+                      data-rr-ui-event-key="/Projects"
+                      href="/Projects"
+                    >
+                      Projects
+                    </a>
+                    <a
+                      class="nav-link"
+                      data-rr-ui-event-key="/ContactMe"
+                      href="/ContactMe"
+                    >
+                      Contact Me
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </nav>
+          </div>
+          <div
+            class="errorPage"
+          >
+            <div
+              class="errorText"
+            >
+              <h1>
+                <i
+                  class="error404 fa-solid fa-triangle-exclamation"
+                />
+                 404 Error 
+                <i
+                  class="error404 fa-solid fa-triangle-exclamation"
+                />
+              </h1>
+              <h4>
+                This page does not exist
+              </h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="App"
+    >
+      <div>
+        <div
+          class="sticky-top NavBar"
+        >
+          <nav
+            class="navbar navbar-expand-lg navbar-light bg-dark"
+            data-bs-theme="dark"
+          >
+            <div
+              class="container"
+            >
+              <a
+                class="navbar-brand"
+                href="/myPortfolio"
+              >
+                Jacobs Porfolio
+              </a>
+              <button
+                aria-controls="basic-navbar-nav"
+                aria-label="Toggle navigation"
+                class="navbar-toggler collapsed"
+                type="button"
+              >
+                <span
+                  class="navbar-toggler-icon"
+                />
+              </button>
+              <div
+                class="navbar-collapse collapse"
+                id="basic-navbar-nav"
+              >
+                <div
+                  class="me-auto navbar-nav"
+                >
+                  <a
+                    class="nav-link"
+                    data-rr-ui-event-key="/Projects"
+                    href="/Projects"
+                  >
+                    Projects
+                  </a>
+                  <a
+                    class="nav-link"
+                    data-rr-ui-event-key="/ContactMe"
+                    href="/ContactMe"
+                  >
+                    Contact Me
+                  </a>
+                </div>
+              </div>
+            </div>
+          </nav>
+        </div>
+        <div
+          class="errorPage"
+        >
+          <div
+            class="errorText"
+          >
+            <h1>
+              <i
+                class="error404 fa-solid fa-triangle-exclamation"
+              />
+               404 Error 
+              <i
+                class="error404 fa-solid fa-triangle-exclamation"
+              />
+            </h1>
+            <h4>
+              This page does not exist
+            </h4>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Page Render 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="App"
+      >
+        <div>
+          <div
+            class="sticky-top NavBar"
+          >
+            <nav
+              class="navbar navbar-expand-lg navbar-light bg-dark"
+              data-bs-theme="dark"
+            >
+              <div
+                class="container"
+              >
+                <a
+                  class="navbar-brand"
+                  href="/myPortfolio"
+                >
+                  Jacobs Porfolio
+                </a>
+                <button
+                  aria-controls="basic-navbar-nav"
+                  aria-label="Toggle navigation"
+                  class="navbar-toggler collapsed"
+                  type="button"
+                >
+                  <span
+                    class="navbar-toggler-icon"
+                  />
+                </button>
+                <div
+                  class="navbar-collapse collapse"
+                  id="basic-navbar-nav"
+                >
+                  <div
+                    class="me-auto navbar-nav"
+                  >
+                    <a
+                      class="nav-link"
+                      data-rr-ui-event-key="/Projects"
+                      href="/Projects"
+                    >
+                      Projects
+                    </a>
+                    <a
+                      class="nav-link"
+                      data-rr-ui-event-key="/ContactMe"
+                      href="/ContactMe"
+                    >
+                      Contact Me
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </nav>
+          </div>
+          <div
+            class="errorPage"
+          >
+            <div
+              class="errorText"
+            >
+              <h1>
+                <i
+                  class="error404 fa-solid fa-triangle-exclamation"
+                />
+                 404 Error 
+                <i
+                  class="error404 fa-solid fa-triangle-exclamation"
+                />
+              </h1>
+              <h4>
+                This page does not exist
+              </h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="App"
+    >
+      <div>
+        <div
+          class="sticky-top NavBar"
+        >
+          <nav
+            class="navbar navbar-expand-lg navbar-light bg-dark"
+            data-bs-theme="dark"
+          >
+            <div
+              class="container"
+            >
+              <a
+                class="navbar-brand"
+                href="/myPortfolio"
+              >
+                Jacobs Porfolio
+              </a>
+              <button
+                aria-controls="basic-navbar-nav"
+                aria-label="Toggle navigation"
+                class="navbar-toggler collapsed"
+                type="button"
+              >
+                <span
+                  class="navbar-toggler-icon"
+                />
+              </button>
+              <div
+                class="navbar-collapse collapse"
+                id="basic-navbar-nav"
+              >
+                <div
+                  class="me-auto navbar-nav"
+                >
+                  <a
+                    class="nav-link"
+                    data-rr-ui-event-key="/Projects"
+                    href="/Projects"
+                  >
+                    Projects
+                  </a>
+                  <a
+                    class="nav-link"
+                    data-rr-ui-event-key="/ContactMe"
+                    href="/ContactMe"
+                  >
+                    Contact Me
+                  </a>
+                </div>
+              </div>
+            </div>
+          </nav>
+        </div>
+        <div
+          class="errorPage"
+        >
+          <div
+            class="errorText"
+          >
+            <h1>
+              <i
+                class="error404 fa-solid fa-triangle-exclamation"
+              />
+               404 Error 
+              <i
+                class="error404 fa-solid fa-triangle-exclamation"
+              />
+            </h1>
+            <h4>
+              This page does not exist
+            </h4>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Page Renders 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="App"
+      >
+        <div>
+          <div
+            class="sticky-top NavBar"
+          >
+            <nav
+              class="navbar navbar-expand-lg navbar-light bg-dark"
+              data-bs-theme="dark"
+            >
+              <div
+                class="container"
+              >
+                <a
+                  class="navbar-brand"
+                  href="/myPortfolio"
+                >
+                  Jacobs Porfolio
+                </a>
+                <button
+                  aria-controls="basic-navbar-nav"
+                  aria-label="Toggle navigation"
+                  class="navbar-toggler collapsed"
+                  type="button"
+                >
+                  <span
+                    class="navbar-toggler-icon"
+                  />
+                </button>
+                <div
+                  class="navbar-collapse collapse"
+                  id="basic-navbar-nav"
+                >
+                  <div
+                    class="me-auto navbar-nav"
+                  >
+                    <a
+                      class="nav-link"
+                      data-rr-ui-event-key="/Projects"
+                      href="/Projects"
+                    >
+                      Projects
+                    </a>
+                    <a
+                      class="nav-link"
+                      data-rr-ui-event-key="/ContactMe"
+                      href="/ContactMe"
+                    >
+                      Contact Me
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </nav>
+          </div>
+          <div
+            class="errorPage"
+          >
+            <div
+              class="errorText"
+            >
+              <h1>
+                <i
+                  class="error404 fa-solid fa-triangle-exclamation"
+                />
+                 404 Error 
+                <i
+                  class="error404 fa-solid fa-triangle-exclamation"
+                />
+              </h1>
+              <h4>
+                This page does not exist
+              </h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="App"
+    >
+      <div>
+        <div
+          class="sticky-top NavBar"
+        >
+          <nav
+            class="navbar navbar-expand-lg navbar-light bg-dark"
+            data-bs-theme="dark"
+          >
+            <div
+              class="container"
+            >
+              <a
+                class="navbar-brand"
+                href="/myPortfolio"
+              >
+                Jacobs Porfolio
+              </a>
+              <button
+                aria-controls="basic-navbar-nav"
+                aria-label="Toggle navigation"
+                class="navbar-toggler collapsed"
+                type="button"
+              >
+                <span
+                  class="navbar-toggler-icon"
+                />
+              </button>
+              <div
+                class="navbar-collapse collapse"
+                id="basic-navbar-nav"
+              >
+                <div
+                  class="me-auto navbar-nav"
+                >
+                  <a
+                    class="nav-link"
+                    data-rr-ui-event-key="/Projects"
+                    href="/Projects"
+                  >
+                    Projects
+                  </a>
+                  <a
+                    class="nav-link"
+                    data-rr-ui-event-key="/ContactMe"
+                    href="/ContactMe"
+                  >
+                    Contact Me
+                  </a>
+                </div>
+              </div>
+            </div>
+          </nav>
+        </div>
+        <div
+          class="errorPage"
+        >
+          <div
+            class="errorText"
+          >
+            <h1>
+              <i
+                class="error404 fa-solid fa-triangle-exclamation"
+              />
+               404 Error 
+              <i
+                class="error404 fa-solid fa-triangle-exclamation"
+              />
+            </h1>
+            <h4>
+              This page does not exist
+            </h4>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`renders learn react link 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="App"
+      >
+        <div>
+          <div
+            class="sticky-top NavBar"
+          >
+            <nav
+              class="navbar navbar-expand-lg navbar-light bg-dark"
+              data-bs-theme="dark"
+            >
+              <div
+                class="container"
+              >
+                <a
+                  class="navbar-brand"
+                  href="/myPortfolio"
+                >
+                  Jacobs Porfolio
+                </a>
+                <button
+                  aria-controls="basic-navbar-nav"
+                  aria-label="Toggle navigation"
+                  class="navbar-toggler collapsed"
+                  type="button"
+                >
+                  <span
+                    class="navbar-toggler-icon"
+                  />
+                </button>
+                <div
+                  class="navbar-collapse collapse"
+                  id="basic-navbar-nav"
+                >
+                  <div
+                    class="me-auto navbar-nav"
+                  >
+                    <a
+                      class="nav-link"
+                      data-rr-ui-event-key="/Projects"
+                      href="/Projects"
+                    >
+                      Projects
+                    </a>
+                    <a
+                      class="nav-link"
+                      data-rr-ui-event-key="/ContactMe"
+                      href="/ContactMe"
+                    >
+                      Contact Me
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </nav>
+          </div>
+          <div
+            class="errorPage"
+          >
+            <div
+              class="errorText"
+            >
+              <h1>
+                <i
+                  class="error404 fa-solid fa-triangle-exclamation"
+                />
+                 404 Error 
+                <i
+                  class="error404 fa-solid fa-triangle-exclamation"
+                />
+              </h1>
+              <h4>
+                This page does not exist
+              </h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="App"
+    >
+      <div>
+        <div
+          class="sticky-top NavBar"
+        >
+          <nav
+            class="navbar navbar-expand-lg navbar-light bg-dark"
+            data-bs-theme="dark"
+          >
+            <div
+              class="container"
+            >
+              <a
+                class="navbar-brand"
+                href="/myPortfolio"
+              >
+                Jacobs Porfolio
+              </a>
+              <button
+                aria-controls="basic-navbar-nav"
+                aria-label="Toggle navigation"
+                class="navbar-toggler collapsed"
+                type="button"
+              >
+                <span
+                  class="navbar-toggler-icon"
+                />
+              </button>
+              <div
+                class="navbar-collapse collapse"
+                id="basic-navbar-nav"
+              >
+                <div
+                  class="me-auto navbar-nav"
+                >
+                  <a
+                    class="nav-link"
+                    data-rr-ui-event-key="/Projects"
+                    href="/Projects"
+                  >
+                    Projects
+                  </a>
+                  <a
+                    class="nav-link"
+                    data-rr-ui-event-key="/ContactMe"
+                    href="/ContactMe"
+                  >
+                    Contact Me
+                  </a>
+                </div>
+              </div>
+            </div>
+          </nav>
+        </div>
+        <div
+          class="errorPage"
+        >
+          <div
+            class="errorText"
+          >
+            <h1>
+              <i
+                class="error404 fa-solid fa-triangle-exclamation"
+              />
+               404 Error 
+              <i
+                class="error404 fa-solid fa-triangle-exclamation"
+              />
+            </h1>
+            <h4>
+              This page does not exist
+            </h4>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

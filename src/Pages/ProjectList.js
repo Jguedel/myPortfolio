@@ -16,12 +16,13 @@ const ProjectList = () => {
         <Row className="projectList">
           <Col xs={8}>
             <span className="projects">
-              {projArr.map(({ img, title, description, link }) => (
+              {projArr.map(({ img, title, description, link, key }) => (
                 <SingleProjectCard
                   img={img}
                   title={title}
                   description={description}
                   link={link}
+                  key={key}
                 />
               ))}
             </span>
