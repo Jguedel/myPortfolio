@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/myPortfolio/static/css/main.1cbffa35.css",
+    "main.css": "/myPortfolio/static/css/main.d207be04.css",
     "main.js": "/myPortfolio/static/js/main.daea564c.js",
     "static/js/453.ace21015.chunk.js": "/myPortfolio/static/js/453.ace21015.chunk.js",
     "static/media/caNationalPark.png": "/myPortfolio/static/media/caNationalPark.6fc29edc263a3a6ecc22.png",
     "static/media/spaceTravel.png": "/myPortfolio/static/media/spaceTravel.950fb228ed8036a8519c.png",
     "index.html": "/myPortfolio/index.html",
-    "main.1cbffa35.css.map": "/myPortfolio/static/css/main.1cbffa35.css.map",
+    "main.d207be04.css.map": "/myPortfolio/static/css/main.d207be04.css.map",
     "main.daea564c.js.map": "/myPortfolio/static/js/main.daea564c.js.map",
     "453.ace21015.chunk.js.map": "/myPortfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1cbffa35.css",
+    "static/css/main.d207be04.css",
     "static/js/main.daea564c.js"
   ]
 }
