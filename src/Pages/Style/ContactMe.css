@@ -1,5 +1,6 @@
 .formInput {
   max-width: 35%;
+  min-width: 350px;
   margin: 0px auto;
 }
 .contactMePage {
