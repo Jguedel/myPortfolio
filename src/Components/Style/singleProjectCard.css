@@ -1,5 +1,24 @@
-.singleProject{
-    margin: auto;
-    margin-top: 10px;
-    margin-bottom: 10px;
+.singleProject {
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.card-subtitle ul {
+  width: 30vw;
+  margin: auto;
+}
+
+.card-subtitle ul li {
+  margin-bottom: 20px;
+}
+
+.card-text {
+  width: 50vw;
+  margin: 5px auto 20px auto;
+}
+
+.card-title {
+  text-decoration: underline;
+  font-size: 3em;
+  margin-bottom: 30px;
 }

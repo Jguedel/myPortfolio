@@ -16,15 +16,18 @@ const ProjectList = () => {
         <Row className="projectList">
           <Col xs={8}>
             <span className="projects">
-              {projArr.map(({ img, title, description, link, key }) => (
-                <SingleProjectCard
-                  img={img}
-                  title={title}
-                  description={description}
-                  link={link}
-                  key={key}
-                />
-              ))}
+              {projArr.map(
+                ({ img, title, description, features, link, key }) => (
+                  <SingleProjectCard
+                    img={img}
+                    title={title}
+                    description={description}
+                    link={link}
+                    features={features}
+                    key={key}
+                  />
+                )
+              )}
             </span>
           </Col>
         </Row>
